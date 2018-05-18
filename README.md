@@ -1,4 +1,4 @@
-# Facebook Ads
+# Russian Facebook Ads
 
 Examining the Facebook ads from the Russian "Internet Research Agency" (IRA)
 
